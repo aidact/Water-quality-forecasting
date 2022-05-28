@@ -1,5 +1,5 @@
 # Water-quality-forecasting
-The project created in the scope of Machine Learning course 2021 University of Hamburg/
+The project created in the scope of Machine Learning course 2021 University of Hamburg
 
 71% of Earth is cover by water, however only 3% is a fresh water, out of which only 1% is readily-available. There are multiple causes of water pollution, like rapid urban development, agricultureoil spills, etc.
 This project aims to predict the quality of water based on Water Quality Index for a data collected from 22 stations on Southern Bug river.
